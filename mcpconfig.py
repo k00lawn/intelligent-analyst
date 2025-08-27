@@ -1,0 +1,8 @@
+config = {
+    "mcpServers": {
+        "time": {
+            "command": "uvx",
+            "args": ["mcp-server-time"]
+        },
+    }
+}
